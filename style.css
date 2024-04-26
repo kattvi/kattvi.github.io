@@ -314,6 +314,10 @@ button{
     }
 }
 
+.hide-element{
+    display: none;
+}
+
 /*----------------------------------------------------------------------------------e*/
 
 ol,
@@ -383,6 +387,13 @@ https://en.bem.info/methodology/quick-start/*/
     height: 35px;
 }
 
+.btn-enviar{
+    background-color: rgb(98, 108, 247);
+    color: #F5F5F5;
+    border: none;
+    border-radius: 10px;
+    height: 35px;
+}
 
 /*footer*/
 
